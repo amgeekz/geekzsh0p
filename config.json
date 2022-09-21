@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6285737134572@s.whatsapp.net"],
+  "ownerName": ["Own-Manik√"],
+  "botName": "Latina Bot",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
